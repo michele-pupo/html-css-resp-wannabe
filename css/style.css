@@ -128,8 +128,8 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
-/* versione tablet */
 
+ /* versione tablet */
 @media screen and (max-width: 768px) {
 
     .container{
@@ -151,6 +151,7 @@ img {
     }
 
 
+    
     .steps,
     .why-us {
         margin-bottom: 0;
@@ -168,6 +169,7 @@ img {
 
 
 
+    
     .why-us .row {
         display: flex;
         flex-wrap: wrap;
