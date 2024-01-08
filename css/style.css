@@ -151,7 +151,6 @@ img {
     }
 
 
-
     .steps,
     .why-us {
         margin-bottom: 0;
@@ -184,4 +183,12 @@ img {
     body .why-us {
         background-color: #222222;
     }
+}
+
+
+/* fix container rosa */
+
+.container{
+    max-width: 100%;
+    margin: 0 auto;
 }
